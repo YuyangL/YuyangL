@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuyangL
+- 👋 Hi, I’m @YuyangL. I've made some (not yet organized) projects regarding tensor basis ML and wind plant data-driven CFD.
 - 👀 I’m interested in data-driven CFD development.
 - 🌱 I’m currently learning C++ to modify turbulence models on OpenFOAM.
 - 💞️ I’m looking to collaborate on novel ML applied to turbulence modelling.
